@@ -1,0 +1,9 @@
+Developed a web application that generates personalized workout and diet plans based on user metrics and goals. 
+Implemented attendance tracking, admin portal and user profile management for members, trainers.
+Implemented a BMI calculator module, handling user input validation with real-time BMI computation and
+display their Body Mass Index with categorized results.
+Designed an AI generated weekly workout schedules based on user's BMI with suggested exercises, rest days, and
+intensity levels. 
+Developed custom diet charts providing meal suggestions, calorie guidance, and nutritional balance for holistic
+fitness.
+Focused on promoting a technology-driven healthy lifestyle through personalized fitness management.
